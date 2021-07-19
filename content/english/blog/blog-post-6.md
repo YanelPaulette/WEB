@@ -1,57 +1,34 @@
 ---
-author: John Doe
+author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
-- Company News
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+- Presentación
+date: "2021-07-19T11:07:10+06:00"
+description: 
 draft: false
 image: images/blog/blog-post-6.jpg
 tags:
-- News
-- Retro
-- AI
-- Company
-title: How To Wear Bright Shoes
+- People Analytics
+- blog
+- Marca Personal
+- RRHH
+title: Presentación 
 type: post
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+Me encontré muchas veces diciendo soy del mundo de Recursos Humanos. En este mundo, dentro de todas las cosas que me interesan, sigo  a muchos profesionales especializados en marca personal. Todxs recomiendan la necesidad de contar con un blog para mostrar nuestro valor personal. En algún momento no lo veía tan claro, hoy sí. 
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+> Crea tu marca personal, te va a acompañar siempre
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+Nuestra carrera laboral, va a estar atravesada de miles de circunstancias, las cuales vamos atravesando según nuestras herramientas y oportunidades, pero  lo que vamos construyendo en el camino es lo que nos va a hacer únicos, pero si eso no lo compartimos, queda en nuestra memoria, nuestros conocidos o en nuesto ordenador.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+
+Dejar plasmado el recorrido de nuestra trayectoria, a traves de nuestras ideas, propuestas, proyectos, buenos, malos, pesimos, interesantes, nos  hace crecer profesionalmente y acercarnos a otrxs, debatir, encontrar puntos en común, distancias, pero sobre todo encontrar mejores respuestas, ya que en definitiva somos humanos trabajando con  humanos. 
+
+---------- 
+#### *En este blog voy a intentar hacer algo de lo que comenté previamente. Bienvenidx*
+---------- 
+
+
