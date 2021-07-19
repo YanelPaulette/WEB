@@ -21,16 +21,18 @@ Me encontré muchas veces diciendo *"Soy del mundo de Recursos Humanos"*. Una de
 En algún momento no lo veía tan claro, hoy sí. 
 
 
-> Crea tu marca personal, te va a acompañar siempre
+> Creá tu marca personal, te va a acompañar siempre
 
-Nuestra carrera laboral, va a estar atravesada por  miles de circunstancias, las cuales vamos a enfrentar  según nuestras herramientas y oportunidades, pero  lo que vamos construyendo en el camino es lo que nos va a hacer únicos.
+Nuestra carrera laboral va a estar atravesada por  miles de circunstancias, las cuales vamos a enfrentar  según nuestras herramientas y oportunidades, pero  lo que vamos construyendo en el camino es lo que nos va a hacer únicos.
 
 
 
 Dejar plasmado el recorrido de nuestra trayectoria, a traves de nuestras ideas,  propuestas  y  proyectos nos  hace crecer profesionalmente y acercarnos a otrxs, debatir, encontrar puntos en común, distancias, pero sobre todo encontrar mejores respuestas para nuestra labor diaria en HR, ya que en definitiva somos humanos trabajando con  humanos. 
 
 ---------- 
-                  *Este es mi espacio. Bienvenidx*
+
+Este es mi espacio. Bienvenidx!!
+
 ---------- 
 
 

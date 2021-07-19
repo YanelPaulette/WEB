@@ -1,12 +1,12 @@
 ---
 about:
-  content: Comparto info útil sobre HR
-  description: Este es mi blog Personal
+  content: Comparto info útil sobre HR & People Analytics. 
+  description: This is my personal blog
   enable: true
   image: images/wrapper-img.png
   title: About me
 banner:
-  bg_image: images/slider-bg.jpg
+  bg_image: images/work3.jpg
   bg_overlay: true
   button:
     enable: true
@@ -21,16 +21,16 @@ cta:
     enable: true
     label: Hablemos
     link: contact
-  content: "Imagination is the only weapon in the war against reality"
+  content: ""
   enable: true
   title: Contact
 funfacts:
-  description: '''Me esfuerzo a diario para cambiar mi zona de confort'''
+  description: ''''''
   enable: true
   funfact_item:
   - count: "9999"
     icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee/ Mate
+    name: Mates
   - count: "193.5"
     icon: ion-ios-glasses-outline
     name: Libros leidos
@@ -42,14 +42,14 @@ funfacts:
     name: Tiempo codeando
   testimonial_slider:
   - content: Usa memes, no creo sea profesional.
-    designation: CEO-Themefishe
+    designation: CEO
     image: images/clients/avater-1.jpg
     name: Frank Grimes
   - content: If you believe it, it is not a lie.
-    designation: CEO-Themefisher
-    image: images/clients/avater-3.jpg
+    designation: CEO
+    image: images/clients/avater-2.jpg
     name: George Constanza
-  title: Fun Facts About me
+  title: Personal Analytics
 menu:
   main:
     name: Home
@@ -60,9 +60,9 @@ portfolio:
     enable: true
     label: View Works
     link: project
-  content: " Sitio en contrucción. "
+  content: " Imagination is the only weapon in the war against reality"
   enable: true
-  title: I BELIEVE IN GREAT IDEAS
+  title: Project
 service:
   enable: true
 ---

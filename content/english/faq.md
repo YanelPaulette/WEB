@@ -12,39 +12,40 @@ menu:
 subtitle: Listado de dudas frecuentes relacionadas con People Analytics.
 title: Dudas Frecuentes
 ---
-
+------- 
 ### Un lugar, todas las dudas
 
-Ojala las respuestas te despierten más dudas, asi juntxs seguimos conociendo este fascinante mundo de People Analytics.<br> <br>
+
+Ojala las respuestas encontradas te despierten más dudas, asi juntxs seguimos conociendo este fascinante mundo de People Analytics.<br> <br>
+
+------- 
 
 #### 1.Qué es People Analytics
 
-PA es....
+People Analytics es una metodología que utiliza la aplicación de matemáticas, estadísticas y modelos de datos relacionados con las personas que trabajan en las empresas, para ver evidencias y predecir patrones. 
+Dicho analisis  se utiliza para tomar mejores decisiones sobre todos los aspectos de la estrategia de recursos humanos con el objetivo de mejorar el rendimiento individual y empresarial alineando gestión y desarrollo de personas con los objetivos del negocio.
 
 #### 2. Por que contarlo en un blog?
 
-Porque Pa no es el camino natural en HR  y creo que podemos agregar mucho valor al negocio si conocemos sus beneficios.
+Porque People Analytics no es el camino natural en HR  y creo que podemos agregar mucho valor al negocio si conocemos sus beneficios.
 
 #### 3. Donde puedo aprender sobre PA?
 
-completar...
+Comparto algunos enlaces de interes e iré manteniendo actualizado la información:
 
-#### 4. Que pasa si me equivoco?
+[ITBA](https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/people-analytics/)<br>[UCEMA](https://ucema.edu.ar/educacion-ejecutiva/people-analytics)<br>[DATA 4hr](https://data-4hr.com/)<br>[HR Analytics Think Tank](https://www.3nstrategy.com/)<br>[Club de R para RRHH](https://r4hr.club/) <br>[Instare](https://www.instare.com/web/component/tags/tag/people-analytics)
 
-Nada. Te lo prometo.
 
-#### 5. V
+#### 4. Como puedo empezar?
 
-no se...
+Depende lo que mas te guste. Si te gusta leer te recomiendo leer articulos de los referentes del área, seguir sus trabajos, luego seguir con  un libro introductorio sobre el tema. si sos más de tutoriales, tenes mil horas de data en you tube que pueden ampliarte mucho sobre el tema. Lo importante es empezar, luego iras profundizando. 
 
-#### 6. Referentes del Area
 
-Hay muchos, Nacionales e Internacionales. Dejo alguno de ellos
 
-##### Nacionales:
+#### 5. Referentes del Area
 
-[Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>[Club de R para RRHH](https://r4hr.club/) <br>[Data 4hr](https://data-4hr.com/) <br>[Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>[Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)
+Hay muchos, Nacionales e Internacionales, comparto algunxs:<br>
 
-##### Internacionales:
+##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)<br><br>
 
-[David Green](https://www.davidrgreen.com/)<br>[Nigel Dias](https://www.linkedin.com/in/nigeldias/) <br>[HR Analytics Think Tank](https://www.3nstrategy.com/) <br>[Marta Gascon](https://personkpi.com/)<br>[Ana Rubio Gascon](linkedin.com/in/anavalerarubio)<br>[Marta Gascon](https://personkpi.com/)<br>[Ana Valera Rubio](https://www.linkedin.com/in/anavalerarubio/)<br>[Delia Majarín](https://www.linkedin.com/in/deliamajarin/)<br>[Juan Bodenheimer](https://www.linkedin.com/in/instare-consultoria/)
+##### *Internacionales*<br><br>- [David Green](https://www.davidrgreen.com/) <br>- [Nigel Dias](https://www.linkedin.com/in/nigeldias/) <br>- [Marta Gascon](https://personkpi.com/)<br>- [Marta Gascon](https://personkpi.com/)<br>- [Ana Valera Rubio](https://www.linkedin.com/in/anavalerarubio/)<br>- [Delia Majarín](https://www.linkedin.com/in/deliamajarin/)<br>- [Juan Bodenheimer](https://www.linkedin.com/in/instare-consultoria/)
