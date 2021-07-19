@@ -1,7 +1,7 @@
 ---
 about:
-  content: Trato de escribir y ver que sale.
-  description: Hice un blog para contar algo sobre mi.. veremos..
+  content: Comparto info útil sobre HR
+  description: Este es mi blog Personal
   enable: true
   image: images/wrapper-img.png
   title: About me
