@@ -17,8 +17,7 @@ type: post
 ---
 
 
-Me encontré muchas veces diciendo *"Soy del mundo de Recursos Humanos"*. Una de las cosas que me interesan en este mundo,  es la  **marca personal**. Lxs especialistas del tema recomiendan la necesidad de contar con un blog para mostrar nuestro valor personal. 
-
+Me encontré muchas veces diciendo *"Soy del mundo de Recursos Humanos"*. Una de las cosas que me interesan en este mundo,  es la  **marca personal**. Lxs especialistas del tema recomiendan la necesidad de contar con un blog para mostrar nuestro valor. 
 En algún momento no lo veía tan claro, hoy sí. 
 
 
@@ -28,10 +27,10 @@ Nuestra carrera laboral, va a estar atravesada por  miles de circunstancias, las
 
 
 
-Dejar plasmado el recorrido de nuestra trayectoria, a traves de nuestras ideas, propuestas, proyectos nos  hace crecer profesionalmente y acercarnos a otrxs, debatir, encontrar puntos en común, distancias, pero sobre todo encontrar mejores respuestas para nuestra labor diaria en HR, ya que en definitiva somos humanos trabajando con  humanos. 
+Dejar plasmado el recorrido de nuestra trayectoria, a traves de nuestras ideas,  propuestas  y  proyectos nos  hace crecer profesionalmente y acercarnos a otrxs, debatir, encontrar puntos en común, distancias, pero sobre todo encontrar mejores respuestas para nuestra labor diaria en HR, ya que en definitiva somos humanos trabajando con  humanos. 
 
 ---------- 
-> *Este es mi espacio. Bienvenidx*
+                  *Este es mi espacio. Bienvenidx*
 ---------- 
 
 

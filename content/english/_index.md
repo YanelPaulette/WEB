@@ -8,12 +8,10 @@ about:
 banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-cta:
-  bg_image: images/call-to-action-bg.jpg
   button:
     enable: true
-    label: Hablemos
-    link: contact
+    label: Presentación
+    link: about
   content: Recursos Humanos & People Analytics
   enable: true
   title: Yanel Paulette
@@ -36,22 +34,22 @@ funfacts:
   - count: "193.5"
     icon: ion-ios-glasses-outline
     name: Libros leidos
-  - count: "34"
+  - count: "34.7"
     icon: ion-ios-compose-outline
     name: Borradores Creados
-  - count: "197"
+  - count: "200"
     icon: ion-ios-timer-outline
     name: Tiempo codeando
   testimonial_slider:
   - content: Usa memes, no creo sea profesional.
-    designation: CEO
+    designation: CEO-Themefishe
     image: images/clients/avater-1.jpg
     name: Frank Grimes
-  - content: "If you believe it, it is not a lie"
-    designation: CEO
+  - content: If you believe it, it is not a lie.
+    designation: CEO-Themefisher
     image: images/clients/avater-3.jpg
     name: George Constanza
-  title: Personal Analytics
+  title: Fun Facts About me
 menu:
   main:
     name: Home
