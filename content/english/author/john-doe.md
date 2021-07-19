@@ -3,8 +3,6 @@ bg_image: images/1589153972373.jpg
 draft: false
 email: yanelpaulette@gmail.com
 social:
-#- icon: ion-social-facebook-outline
-#  link: 'https://r4hr.club/'
 - icon: ion-social-twitter-outline
   link: 'https://twitter.com/yanelpaulette'
 - icon: ion-social-linkedin-outline

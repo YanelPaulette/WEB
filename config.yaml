@@ -85,8 +85,6 @@ params:
     #  link: '#'
     - icon: ion-social-twitter-outline
       link: 'https://www.twitter.com/in/yanelpaulette/'
-    - icon: ion-social-facebook-outline
-      link: 'https://www.facebook.com/in/yanelpaulette/'
   widgets:
     sidebar:
       - recent_posts
