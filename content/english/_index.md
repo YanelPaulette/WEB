@@ -8,48 +8,50 @@ about:
 banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  button:
-    enable: true
-    label: Presentación
-    link: about
-  content: Me encanta lo que hago, pero se que lo puedo hacer mejor, asi que me esfuerzo diario por alcanzarlo.
-  enable: true
-  title: Capital Humano <br/> & People Analytics
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
     enable: true
     label: Hablemos
     link: contact
-  content: Imagination is the only weapon in the war against reality.
+  content: Recursos Humanos & People Analytics
   enable: true
-  title: Contacto
+  title: Yanel Paulette
+cta:
+  bg_image: images/call-to-action-bg.jpg
+  button:
+    enable: true
+    label: Hablemos
+    link: contact
+  content: "Imagination is the only weapon in the war against reality"
+  enable: true
+  title: Contact
 funfacts:
   description: '''Me esfuerzo a diario para cambiar mi zona de confort'''
   enable: true
   funfact_item:
-  - count: "99"
+  - count: "9999"
     icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-  - count: "198"
+    name: Cups Of Coffee/ Mate
+  - count: "193.5"
     icon: ion-ios-glasses-outline
     name: Libros leidos
-  - count: "57"
+  - count: "34"
     icon: ion-ios-compose-outline
     name: Borradores Creados
-  - count: "200"
+  - count: "197"
     icon: ion-ios-timer-outline
     name: Tiempo codeando
   testimonial_slider:
   - content: Usa memes, no creo sea profesional.
-    designation: CEO-Themefishe
+    designation: CEO
     image: images/clients/avater-1.jpg
     name: Frank Grimes
-  - content: If you believe it, it is not a lie.
-    designation: CEO-Themefisher
+  - content: "If you believe it, it is not a lie"
+    designation: CEO
     image: images/clients/avater-3.jpg
     name: George Constanza
-  title: Fun Facts About me
+  title: Personal Analytics
 menu:
   main:
     name: Home

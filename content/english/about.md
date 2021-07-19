@@ -5,20 +5,20 @@ about:
     label: Download CV
     link: 'https://rpubs.com/YanelPaulette/CVYanelPaulette'
   content: |-
-    Soy una persona curiosa, amante de HR y conociendo el mundo de los datos.
+    Una persona amante de su profesion, curiosa, inquieta y con intereses diversos.
 
     
   enable: true
   funfacts:
-  - count: "349"
+  - count: "349.5"
     icon: ion-ios-flask-outline
     name: Frustraciones
-  - count: "10000"
+  - count: "1000"
     icon: ion-ios-flame-outline
     name: Horas de Tutoriales
-  #- count: "70"
+  - count: "329"
     icon: ion-ios-pint-outline
-    name: Satisfacciones
+    name: Dudas
   - count: "99"
     icon: ion-ios-wineglass-outline
     name: Festejos
@@ -29,7 +29,7 @@ about:
     icon: ion-ios-body-outline
     name: Colegas consultados
   image: images/company/about.jpg
-  title: Quién soy? <br> 
+  title: ¿Quién soy? <br> <br> 
 bg_image: images/feature-bg.jpg
 cta:
   enable: true
@@ -43,7 +43,7 @@ features:
     name: People Analytics
   - content: 
     icon: ion-ios-game-controller-b-outline
-    name: Gamificacion 
+    name: Gamificación 
   - content: 
     icon: ion-ios-star-outline
     name: Marca Empleadora
@@ -56,12 +56,11 @@ menu:
 mission_vision:
   enable: true
   tabs:
-  - content: Lic. en Relaciones del Trabajo. Egresada en la UBA. Muchos Cursos.
+  - content: Lic. en Relaciones del Trabajo.<br> Universidad de Buenos Aires
     name: Recursos Humanos
-  - content: Tecnica Universitaria en Programación
-      Estudiante de Programación UTN. Egreso 2022
+  - content: Estudiante de la Tecnicatura Universitaria en Programación.<br> Universidad Tecnológica Nacional
     name: Programacion
-  - content: You tube es mi segundo hogar.
+  - content: You tube es mi segundo hogar
     name: Autodidacta
 testimonial:
   enable: true
