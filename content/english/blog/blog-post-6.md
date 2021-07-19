@@ -31,7 +31,7 @@ Nuestra carrera laboral, va a estar atravesada por  miles de circunstancias, las
 Dejar plasmado el recorrido de nuestra trayectoria, a traves de nuestras ideas, propuestas, proyectos nos  hace crecer profesionalmente y acercarnos a otrxs, debatir, encontrar puntos en común, distancias, pero sobre todo encontrar mejores respuestas para nuestra labor diaria en HR, ya que en definitiva somos humanos trabajando con  humanos. 
 
 ---------- 
-#### *En este blog voy a intentar hacer algo de lo que comenté previamente. Bienvenidx*
+> *Este es mi espacio. Bienvenidx*
 ---------- 
 
 
