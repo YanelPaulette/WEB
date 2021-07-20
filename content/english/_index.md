@@ -55,14 +55,13 @@ menu:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/feature-bg.jpg
-  bg_overlay: true
+  bg_image: images/blog-post-4.jpg
   button:
     enable: true
     label: View Works
     link: project
   content: ""
-  enable: true
+  enable: false #poner true y aparece
   title: Project
 service:
   enable: true
