@@ -60,7 +60,7 @@ mission_vision:
     name: Recursos Humanos
   - content: Estudiante de la Tecnicatura Universitaria en Programación.<br> Universidad Tecnológica Nacional
     name: Programacion
-  - content: You tube es mi segundo hogar
+  - content: YouTube es mi segundo hogar
     name: Autodidacta
 testimonial:
   enable: true
