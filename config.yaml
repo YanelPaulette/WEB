@@ -24,7 +24,7 @@ params:
   author: Yanel Paulette
   contact:
     address_descriptors: no
-    email: yanelpaulette@gmail.com
+    email: "yanelpaulette@gmail.com"
     form:
       action: '#'
       enable: yes
