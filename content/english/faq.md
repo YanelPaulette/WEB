@@ -46,6 +46,6 @@ Depende lo que mas te guste. Si te gusta leer te recomiendo  articulos de los re
 
 Hay muchos, Nacionales e Internacionales, comparto algunxs:<br>
 
-##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Pablo Senra](https://www.linkedin.com/in/pablosenra/)<br>- [Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)<br><br>
+##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Pablo Senra](https://www.linkedin.com/in/pablosenra/)<br>- [Javier Calzolari](https://ar.linkedin.com/in/javiercalzolari)<br><br>
 
 ##### *Internacionales*<br><br>- [David Green](https://www.davidrgreen.com/) <br>- [Nigel Dias](https://www.linkedin.com/in/nigeldias/) <br>- [Marta Gascon](https://personkpi.com/)<br>- [Marta Gascon](https://personkpi.com/)<br>- [Ana Valera Rubio](https://www.linkedin.com/in/anavalerarubio/)<br>- [Delia Majarín](https://www.linkedin.com/in/deliamajarin/)<br>- [Juan Bodenheimer](https://www.linkedin.com/in/instare-consultoria/)
