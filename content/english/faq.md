@@ -33,7 +33,7 @@ Porque People Analytics no es el camino natural en HR  y creo que podemos agrega
 
 Comparto algunos enlaces de interes e iré manteniendo actualizado la información:
 
-[ITBA](https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/people-analytics/)<br>[UCEMA](https://ucema.edu.ar/educacion-ejecutiva/people-analytics)<br>[DATA 4hr](https://data-4hr.com/)<br>[HR Analytics Think Tank](https://www.3nstrategy.com/)<br>[Club de R para RRHH](https://r4hr.club/) <br>[Instare](https://www.instare.com/web/component/tags/tag/people-analytics)
+[ITBA](https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/people-analytics/)<br>[UCEMA](https://ucema.edu.ar/educacion-ejecutiva/people-analytics)<br>[DATA 4hr](https://data-4hr.com/)<br>[HR Analytics Think Tank](https://www.3nstrategy.com/)<br>[Club de R para RRHH](https://r4hr.club/) <br>[Instare](https://www.instare.com/web/component/tags/tag/people-analytics)<br>[Hache](https://www.hacheconsultora.com/)
 
 
 #### 4. ¿Cómo puedo empezar?
@@ -46,6 +46,6 @@ Depende lo que mas te guste. Si te gusta leer te recomiendo leer articulos de lo
 
 Hay muchos, Nacionales e Internacionales, comparto algunxs:<br>
 
-##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)<br><br>
+##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Pablo Senra](https://www.linkedin.com/in/pablosenra/)<br><br>- [Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)<br><br>
 
 ##### *Internacionales*<br><br>- [David Green](https://www.davidrgreen.com/) <br>- [Nigel Dias](https://www.linkedin.com/in/nigeldias/) <br>- [Marta Gascon](https://personkpi.com/)<br>- [Marta Gascon](https://personkpi.com/)<br>- [Ana Valera Rubio](https://www.linkedin.com/in/anavalerarubio/)<br>- [Delia Majarín](https://www.linkedin.com/in/deliamajarin/)<br>- [Juan Bodenheimer](https://www.linkedin.com/in/instare-consultoria/)
