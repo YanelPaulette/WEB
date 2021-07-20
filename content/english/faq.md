@@ -29,7 +29,7 @@ Dicho analisis  se utiliza para tomar mejores decisiones sobre todos los aspecto
 
 Porque People Analytics no es el camino natural en HR  y creo que podemos agregar mucho valor al negocio si conocemos sus beneficios.
 
-#### 3. ¿Dónde puedo aprender sobre PA?
+#### 3. ¿Dónde puedo aprender sobre People Analytics?
 
 Comparto algunos enlaces de interes e iré manteniendo actualizado la información:
 
@@ -38,7 +38,7 @@ Comparto algunos enlaces de interes e iré manteniendo actualizado la informaci�
 
 #### 4. ¿Cómo puedo empezar?
 
-Depende lo que mas te guste. Si te gusta leer te recomiendo leer articulos de los referentes del área, seguir sus trabajos, luego seguir con  un libro introductorio sobre el tema. si sos más de tutoriales, tenes mil horas de data en you tube que pueden ampliarte mucho sobre el tema. Lo importante es empezar, luego iras profundizando. 
+Depende lo que mas te guste. Si te gusta leer te recomiendo  articulos de los referentes del área, seguir sus trabajos, conectar con ellxs, luego seguir con  un libro introductorio sobre el tema. Si sos más de tutoriales, tenes mil horas de data en you tube que pueden ampliarte mucho sobre el tema. Lo importante es empezar, luego irás profundizando. 
 
 
 
@@ -46,6 +46,6 @@ Depende lo que mas te guste. Si te gusta leer te recomiendo leer articulos de lo
 
 Hay muchos, Nacionales e Internacionales, comparto algunxs:<br>
 
-##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Pablo Senra](https://www.linkedin.com/in/pablosenra/)<br><br>- [Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)<br><br>
+##### *Nacionales*<br><br>- [Sergio  Garcia Mora](https://www.linkedin.com/in/sergiogarciamora/)<br>- [Luis Maria Cravino](https://www.linkedin.com/in/luis-maria-cravino/)<br>- [Pablo Senra](https://www.linkedin.com/in/pablosenra/)<br>- [Javier Calzolari](https://www.linkedin.com/in/luis-maria-cravino/)<br><br>
 
 ##### *Internacionales*<br><br>- [David Green](https://www.davidrgreen.com/) <br>- [Nigel Dias](https://www.linkedin.com/in/nigeldias/) <br>- [Marta Gascon](https://personkpi.com/)<br>- [Marta Gascon](https://personkpi.com/)<br>- [Ana Valera Rubio](https://www.linkedin.com/in/anavalerarubio/)<br>- [Delia Majarín](https://www.linkedin.com/in/deliamajarin/)<br>- [Juan Bodenheimer](https://www.linkedin.com/in/instare-consultoria/)
