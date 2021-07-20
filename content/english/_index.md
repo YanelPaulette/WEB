@@ -60,7 +60,7 @@ portfolio:
     enable: true
     label: View Works
     link: project
-  content: " Imagination is the only weapon in the war against reality"
+  content: ""
   enable: true
   title: Project
 service:
