@@ -7,6 +7,7 @@ social:
   link: 'https://twitter.com/yanelpaulette'
 - icon: ion-social-linkedin-outline
   link: 'https://www.linkedin.com/in/yanelpaulette/'
+  
 title: Yanel Paulette
 ---
 

@@ -43,7 +43,7 @@ features:
     name: People Analytics
   - content: 
     icon: ion-ios-game-controller-b-outline
-    name: Gamificación 
+    name: Storytelling 
   - content: 
     icon: ion-ios-star-outline
     name: Marca Empleadora

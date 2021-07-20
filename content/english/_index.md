@@ -1,6 +1,6 @@
 ---
 about:
-  content: Comparto info útil sobre HR & People Analytics. 
+  content: Comparto info útil sobre HR & People Analytics 
   description: This is my personal blog
   enable: true
   image: images/wrapper-img.png
@@ -37,7 +37,7 @@ funfacts:
   - count: "34.7"
     icon: ion-ios-compose-outline
     name: Borradores Creados
-  - count: "200"
+  - count: "234"
     icon: ion-ios-timer-outline
     name: Tiempo codeando
   testimonial_slider:
