@@ -20,23 +20,23 @@ Ojala las respuestas encontradas te despierten más dudas, asi juntxs seguimos c
 
 ------- 
 
-#### 1.Qué es People Analytics
+#### 1.¿Qué es People Analytics?
 
 People Analytics es una metodología que utiliza la aplicación de matemáticas, estadísticas y modelos de datos relacionados con las personas que trabajan en las empresas, para ver evidencias y predecir patrones. 
 Dicho analisis  se utiliza para tomar mejores decisiones sobre todos los aspectos de la estrategia de recursos humanos con el objetivo de mejorar el rendimiento individual y empresarial alineando gestión y desarrollo de personas con los objetivos del negocio.
 
-#### 2. Por que contarlo en un blog?
+#### 2. ¿Por qué contarlo en un blog?
 
 Porque People Analytics no es el camino natural en HR  y creo que podemos agregar mucho valor al negocio si conocemos sus beneficios.
 
-#### 3. Donde puedo aprender sobre PA?
+#### 3. ¿Dónde puedo aprender sobre PA?
 
 Comparto algunos enlaces de interes e iré manteniendo actualizado la información:
 
 [ITBA](https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/people-analytics/)<br>[UCEMA](https://ucema.edu.ar/educacion-ejecutiva/people-analytics)<br>[DATA 4hr](https://data-4hr.com/)<br>[HR Analytics Think Tank](https://www.3nstrategy.com/)<br>[Club de R para RRHH](https://r4hr.club/) <br>[Instare](https://www.instare.com/web/component/tags/tag/people-analytics)
 
 
-#### 4. Como puedo empezar?
+#### 4. ¿Cómo puedo empezar?
 
 Depende lo que mas te guste. Si te gusta leer te recomiendo leer articulos de los referentes del área, seguir sus trabajos, luego seguir con  un libro introductorio sobre el tema. si sos más de tutoriales, tenes mil horas de data en you tube que pueden ampliarte mucho sobre el tema. Lo importante es empezar, luego iras profundizando. 
 
