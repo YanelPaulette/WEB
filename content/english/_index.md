@@ -56,6 +56,7 @@ menu:
     weight: 1
 portfolio:
   bg_image: images/feature-bg.jpg
+  bg_overlay: true
   button:
     enable: true
     label: View Works
