@@ -9,12 +9,13 @@ menu:
     name: DF
     parent: More
     weight: 3
-subtitle: Listado de dudas frecuentes relacionadas con People Analytics.
+subtitle: Listado de dudas frecuentes relacionadas con <br>HR & People Analytics.
 title: Dudas Frecuentes
 ---
 ------- 
-### Un lugar, todas las dudas
 
+### Un lugar, todas las dudas
+<br>
 
 Espero que las respuestas encontradas te despierten más dudas, asi juntxs seguimos conociendo este fascinante mundo de People Analytics.<br> <br>
 
@@ -38,7 +39,7 @@ Comparto algunos enlaces de interes e iré manteniendo actualizado la informaci�
 
 #### 4. ¿Cómo puedo empezar?
 
-Depende lo que mas te guste. Si te gusta leer te recomiendo  articulos de los referentes del área, seguir sus trabajos, conectar con ellxs, luego seguir con  un libro introductorio sobre el tema. Si sos más de tutoriales, tenes mil horas de data en you tube que pueden ampliarte mucho sobre el tema. Lo importante es empezar, luego irás profundizando. 
+Depende lo que mas te guste. Si te gusta leer te recomiendo  articulos de los referentes del área, seguir sus trabajos, conectar con ellxs, luego seguir con  un libro introductorio sobre el tema. Si sos más de tutoriales, tenes mil horas de data en YouTube que pueden ampliarte mucho sobre el tema. Lo importante es empezar, luego irás profundizando. 
 
 
 
