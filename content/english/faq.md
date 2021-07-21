@@ -16,7 +16,7 @@ title: Dudas Frecuentes
 ### Un lugar, todas las dudas
 
 
-Ojala las respuestas encontradas te despierten más dudas, asi juntxs seguimos conociendo este fascinante mundo de People Analytics.<br> <br>
+Espero que las respuestas encontradas te despierten más dudas, asi juntxs seguimos conociendo este fascinante mundo de People Analytics.<br> <br>
 
 ------- 
 
