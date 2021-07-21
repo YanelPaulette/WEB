@@ -31,7 +31,7 @@ params:
       success_image: images/work4.jpg
       use_netlify: yes
     location: "\r\n**Argentina**"
-    phone: (+54911) 1149393976
+    phone: (+54911) 49393976
   cookies:
     enable: yes
     expire_days: 2
