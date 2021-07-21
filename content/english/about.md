@@ -3,7 +3,7 @@ about:
   button:
     enable: true
     label: Download CV
-    link: 'https://rpubs.com/YanelPaulette/CVYanelPaulette'
+    link: 'https://rpubs.com/YanelPaulette/CV'
   content: |-
     Una persona amante de su profesión, curiosa, inquieta y con intereses diversos.
 
