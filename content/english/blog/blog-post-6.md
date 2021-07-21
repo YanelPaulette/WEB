@@ -35,5 +35,5 @@ Este es mi espacio. Bienvenidx!!
 
 ---------- 
 
-[Yanel](https://rpubs.com/YanelPaulette/CVYanelPaulette]
+[Yanel](https://yanelpaulette.netlify.app/)
 
