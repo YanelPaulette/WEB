@@ -6,7 +6,7 @@ categories:
 date: "2021-09-09T11:07:10+06:00"
 description: 
 draft: false
-image: images/blog/meetup.png
+image: images/blog/meet.jpg
 tags:
 - People Analytics
 - blog
