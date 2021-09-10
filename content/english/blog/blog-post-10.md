@@ -26,7 +26,7 @@ A continuación te cuento una breve introduccion. Ingresando a la siguiente publ
 
 ### Paquete Learnr
 
-El paquete **{learnr}** en R nos permite hacer tutoriales interactivos de una manera muy fácil e intuitiva.
+El paquete **{[learnr](https://rstudio.github.io/learnr/)}** en R nos permite hacer tutoriales interactivos de una manera muy fácil e intuitiva.
 
 A continuación te presento algunas propuestas de uso de esta herramienta en el ambito de HR.
 
