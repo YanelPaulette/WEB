@@ -6,7 +6,7 @@ categories:
 date: "2021-07-19T11:07:10+06:00"
 description: 
 draft: false
-image: images/blog/blog-post-6.jpg
+image: images/blog/engagement.jpg
 tags:
 - People Analytics
 - blog
@@ -16,11 +16,19 @@ title: Tutoriales
 type: post
 ---
 
-## Tutoriales
+## Tutoriales Interactivos
 
-Te cuento a continuación un paquete en R **{learnr}** con el cual se pueden hacer tutoriales interactivos como el presente.
+Los tutoriales interactivos son una herramientas que permiten la interacción con el usuario a partir de una experiencia inmersiva.
 
-## Comunicaciones 
+Para que los podemos usar? Para aumentar el engagement del público.
+
+### Paquete Learnr
+
+El paquete **{learnr}** en R nos permite hacer tutoriales interactivos de una manera muy fácil e intuitiva.
+
+A continuación te presento algunas propuestas de uso de esta herramienta en el ambito de HR.
+
+### Comunicaciones 
 
 Acá por ejemplo, podemos hacer una pregunta abierta o solicitar sugerencias para "Regalos del día de..."
 
@@ -33,7 +41,7 @@ Las respuestas, con un poco de ayuda de código, las guardamos y luego analizamo
 
 ```
 
-## Juegos 
+### Juegos 
 
 Juegos para públicos especificos. Por ejemplo un aviso para IT con un algoritmo en el que puedan encontrar el error o una lectura entre lineas de la info presentada.
 
@@ -45,7 +53,7 @@ sumar <- function(numero1,numero2) {
 sumar(5,3)
 ```
 
-## Preguntas 
+### Preguntas 
 
 Otra opción es incluir preguntas de opción única o múltiple.
 
@@ -87,12 +95,10 @@ quiz(
 )
 ```
 
-## Conclusión
+### Conclusión
 
 En este breve tutorial fuimos viendo algunas de las utilidades que podemos darle a esta herramienta desde RRHH.🚀
 
 ------------------------------------------------------------------------
-
-Gracias a [Yanina Saibene](https://learning-learnr.netlify.app/courses/textmining/) por compartir el tutorial.
 
 [Yanel](https://yanelpaulette.netlify.app/)
