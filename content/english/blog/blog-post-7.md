@@ -2,7 +2,7 @@
 author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
-- Presentación
+- Eventos
 date: "2021-09-09T11:07:10+06:00"
 description: 
 draft: false
@@ -34,9 +34,7 @@ A continuación comparto los accesos:
 
 ✔️ Repo en GitHub. [GitHub](https://github.com/r4hr/club_de_r/blob/master/Sesion_37_Analisis_Exploratorio_Datos.Rmd)
 
-  
-  
-🥝 Seguinos en redes sociales. [Linktree](https://linktr.ee/r4hrclub)  
+🥝 Seguinos en redes sociales. [Linktree](https://linktr.ee/r4hrclub)
 
 ------------------------------------------------------------------------
 
