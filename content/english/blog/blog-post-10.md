@@ -2,7 +2,7 @@
 author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
-- Presentación
+- Aplicaciones
 date: "2021-07-19T11:07:10+06:00"
 description: 
 draft: false
@@ -30,7 +30,7 @@ El paquete **{[learnr](https://rstudio.github.io/learnr/)}** en R nos permite ha
 
 A continuación te presento algunas propuestas de uso de esta herramienta en el ambito de HR.
 
-### Comunicaciones 
+### Comunicaciones
 
 Podemos hacer una pregunta abierta o solicitar sugerencias para "Regalos del día de..."
 
@@ -43,7 +43,7 @@ Las respuestas, con un poco de ayuda de código, las guardamos y luego analizamo
 
 ```
 
-### Preguntas 
+### Preguntas
 
 Otra opción es incluir preguntas de opción única o múltiple.
 
