@@ -2,7 +2,7 @@
 author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
-- Aplicaciones
+- Presentación
 date: "2021-07-19T11:07:10+06:00"
 description: 
 draft: false

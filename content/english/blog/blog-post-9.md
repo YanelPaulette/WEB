@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Intro
 
-Esta semana descubrí un paquete en R {learnr} con el cual se pueden hacer tutoriales interactivos como el presente. 
+Esta semana conocí un paquete en R {learnr} con el cual se pueden hacer tutoriales interactivos como el presente. 
 
 Ustedes se preguntarán...¿En RRHH...?  👇
 
