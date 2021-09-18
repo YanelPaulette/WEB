@@ -15,11 +15,11 @@ tags:
 title: Voluntariado
 ---
 
-Formo parte del voluntariado desde el 2018. La primera vez que participé, recuerdo que llovia tanto, que las clases se hicieron en un aula en la sede de Ramos con pocos asistentes, empapados por el clima, pero estusiasmadxs por sumarnos a esa iniciativa, que sin saber mucho de qué se trataba consistía en ayudar a otrx, con eso alcanzaba.
+Formo parte del voluntariado desde el 2018. La primera vez que participe recuerdo que llovia tanto, que las clases se hicieron en un aula en la sede de Ramos, pocos asistentes, empapados por el clima pero estusiasmadxs por sumarnos a esa iniciativa y sin saber mucho de qué se trataba consistía en ayudar a otrx, con eso alcanzaba.
 
-Hoy, sábado 18/09/2021, en el [Voluntariado de Trabajo e Inclusión](http://www.extensioncbc.com.ar/cbcmasvos/voluntariadotrabajoinclusion/), de la [UBA](https://www.uba.ar/#/) tuvimos el primer encuentro del segundo cuatrimestre 2021, bajo la coordinacion de [Lorena Escobedo](https://www.linkedin.com/in/liclorenaescobedo/) y [Valeria Acevedo](https://www.linkedin.com/in/valeria-acevedo/)
+Hoy, sábado 18/09/2021, en el [Voluntariado de Trabajo e Inclusión](http://www.extensioncbc.com.ar/cbcmasvos/voluntariadotrabajoinclusion/), de la [UBA](https://www.uba.ar/#/) tuvimos el primer encuentro del segundo cuatrimestre 2021, bajo la coordinación de [Lorena Escobedo](https://www.linkedin.com/in/liclorenaescobedo/) y [Valeria Acevedo](https://www.linkedin.com/in/valeria-acevedo/)
 
-Junto con [Daniela Bonfigli](https://www.linkedin.com/in/daniela-bonfigli/) facilitamos un taller orientado a formar a formadores. ¿ Parece un traba lenguas? Si, pero en pocas palabras la idea es brindar herramientas a personas que actúan como facilitadores en otros talleres.
+Junto con [Daniela Bonfigli](https://www.linkedin.com/in/daniela-bonfigli/) facilitamos un taller orientado a formar a formadores. En pocas palabras la idea es brindar herramientas a personas que actúan como facilitadores en otros talleres.
 
 La jornada termino con un saludo virtual 👋
 
@@ -29,7 +29,7 @@ La jornada termino con un saludo virtual 👋
 
 ***Te gustaria sumarte? Te cuento un poco más:***
 
-> Mucha gente pequeña, en lugares pequenos, haciendo cosas pequeñas, puede cambiar el mundo
+> *Mucha gente pequeña, en lugares pequenos, haciendo cosas pequeñas, puede cambiar el mundo*
 
 **¿Qué objetivo tiene el Voluntariado?**
 
