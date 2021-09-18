@@ -79,7 +79,7 @@ colnames(datos) <- limpios
 rm(limpios)
 
 ```
-AHora quiero saber el tipo de dato que tengo
+Ahora quiero saber el tipo de dato que tengo
 
 
 ```{r}
