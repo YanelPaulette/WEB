@@ -6,7 +6,7 @@ categories:
 date: "2021-09-01T11:07:10+06:00"
 description: 
 draft: false
-image: images/blog/texto.png
+image: images/blog/spring.jpg
 tags:
 - People Analytics
 - blog
@@ -14,13 +14,28 @@ tags:
 - RRHH
 title: Flower Plot
 type: post
+output:
+  html_document:
+    theme: sandstone
+    highlight: zenburn
+    code_folding: hide
 ---
 
-## Feliz día de la Primavera!! 💐
 
-No saludo a los meses ni a las estaciones, sin embargo el saludo en este día es una excusa para usar el paquete `plotrix`:
+```{r echo= FALSE }
+knitr::opts_chunk$set(message=FALSE, warning=FALSE)
 
-```{r}
+
+```
+
+### Feliz día de la Primavera!! 💐
+
+No suelo saludar a los meses ni a las estaciones, sin embargo el saludo en este día es una excusa para usar el paquete `plotrix`.
+
+Pensé en opciones que podriamos usar para decorarla si tenemos equipos chicos, pero la verdad quedo bastante fea, comparto el código por si te interesa replicarlo 🤣
+
+```{r echo=FALSE}
+
 
 library(plotrix)
 flower_plot2 <- function(sample, value, start, a, b,  
@@ -69,17 +84,23 @@ text(x = 4.7, y = 5, labels=labels)
 }
 
 
-flower_plot2 (c(" ", "", "", "", "", "", 
-              "", "", "", "", "", "", ""),
+flower_plot2 (c("Juan ", "Carla", "Damian", "Romi", "Jorge", "Vivi", 
+              "Pedro", "", "", "", "", "", ""),
             c(" ", "", "", "", "", "", 
-              "", "", "", "", "", "", ""), 90, 0.5, 2, labels=" ",
+              "", "Pedro", "Vivi", "Jorge", "Romi", "Damian", "Carla"), 90, 0.5, 2, labels=" ",
         ellipse_col = topo.colors(13, alpha = 0.3), 
         circle_col = topo.colors(1, alpha = 0.7) )
 
 
-
 ```
+
+
+
+------------------------------------------------------------------------
+
+`The code is from` [Link](http://www.cnblogs.com/xudongliang/p/7884667.html)
 
 ------------------------------------------------------------------------
 
 [Yanel](https://yanelpaulette.netlify.app/)
+
