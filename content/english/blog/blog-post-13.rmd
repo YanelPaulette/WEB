@@ -32,7 +32,7 @@ knitr::opts_chunk$set(message=FALSE, warning=FALSE)
 
 No suelo saludar a los meses ni a las estaciones, sin embargo el saludo en este día es una excusa para usar el paquete `plotrix`.
 
-Pensé en opciones que podriamos usar para decorarla si tenemos equipos chicos, pero la verdad quedo bastante fea, comparto el código por si te interesa replicarlo 🤣
+Pensé en opciones que podriamos usar para decorarla si tenemos equipos chicos, pero la verdad quedo bastante fea, te comparto el código  si te interesa replicarlo 🤣
 
 ```{r echo=FALSE}
 
