@@ -31,9 +31,9 @@ funfacts:
   - count: "9999"
     icon: ion-ios-chatboxes-outline
     name: Mates
-  - count: "12"
+  - count: "75.5"
     icon: ion-ios-glasses-outline
-    name: Colegas consultados
+    name: Códigos "reciclados"
   - count: "34.7"
     icon: ion-ios-compose-outline
     name: Borradores Creados
