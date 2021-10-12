@@ -31,15 +31,15 @@ funfacts:
   - count: "9999"
     icon: ion-ios-chatboxes-outline
     name: Mates
-  - count: "193.5"
+  - count: "12"
     icon: ion-ios-glasses-outline
-    name: Libros leidos
+    name: Colegas consultados
   - count: "34.7"
     icon: ion-ios-compose-outline
     name: Borradores Creados
-  - count: "234"
+  - count: "550"
     icon: ion-ios-timer-outline
-    name: Tiempo codeando
+    name: Tiempo practicando
   testimonial_slider:
   - content: Usa memes, no creo sea profesional.
     designation: CEO
