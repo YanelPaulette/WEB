@@ -6,7 +6,7 @@ categories:
 date: "2021-09-01T11:07:10+06:00"
 description: 
 draft: false
-image: images/blog/spring.jpg
+image: images/blog/freelance.jpg
 tags:
 - People Analytics
 - blog
@@ -24,13 +24,19 @@ output:
 
 #### Introducción
 
-El el [Club de R Para RRHH](https://r4hr.club/) nos gusta jugar con datos. Por eso hicimos una encuesta de sueldos, para contar datos actualizados sobre temas relevantes relacionados con nuestra profesión, Recursos Humanos. No vamos a mentir, el objetivo principal es contar con datos con los cuales podamos hacer analisis de datos y desde ya compartir los resultados en forma libre. 
+El el [Club de R Para RRHH](https://r4hr.club/) nos gusta jugar con datos. Por eso hicimos una encuesta de sueldos, para contar datos actualizados sobre temas relevantes relacionados con nuestra profesión, Recursos Humanos. No vamos a mentir, el objetivo principal es contar con info con la cual podamos hacer análisis de datos, y desde ya compartir los resultados en forma libre. 
 
-Ectualmente nos encontramos en la etapa de procesamiento  y limpieza de la información. Sin embargo, hasta que la misma este disponible, comparto una serie de resultados, sobre una sección de la Encuesta de Sueldos Kiwi 2021. Espero te guste cómo va quedando! 
+Actualmente nos encontramos en la etapa de procesamiento  y limpieza. Sin embargo, hasta que la misma este disponible, comparto una serie de resultados, sobre una sección de la Encuesta de Sueldos Kiwi 2021, referida a las personas que trabajan como freelance. Espero te guste cómo va quedando! 
 
 Estaremos publicando los resultados finales de la encuesta en  el transcurso de 12/2021.
 
+------------------------------------------------------------------------
+
+
 Te presentamos a continuación  un poco de lo que venimos haciendo: 
+
+------------------------------------------------------------------------
+
 
 
 ### Configuraciones Grales
@@ -109,7 +115,7 @@ eje_y_n <- scale_y_continuous(labels = comma_format(big.mark = ".", decimal.mark
 ```
 
 
-Incorporamos la base disponible en el repositorio de Github
+Incorporamos la base disponible en el repositorio de [Github](https://github.com/r4hr/kiwi2021.git)
 
 ```{r echo=FALSE}
 
@@ -818,4 +824,20 @@ n_coef %>%
 
 
 ```
+
+
+Muchas gracias por leer hasta acá!! Pronto estaremos subiendo más resultados!!
+
+------------------------------------------------------------------------
+
+
+¿Querés replicar este código o el resto de las secciones que estamos analizando? Te invito a visitar nuestro respositorio. 
+
+Toda la data sobre la encuesta la podes encontrar aca: [Github](https://github.com/r4hr/kiwi2021.git)
+
+Gracias al [Club de R Para RRHH](https://r4hr.club/) por dejarnos compartir esta información. 
+
+------------------------------------------------------------------------
+
+[Yanel](https://yanelpaulette.netlify.app/)
 
