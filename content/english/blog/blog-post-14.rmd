@@ -826,14 +826,18 @@ n_coef %>%
 ```
 
 
-Muchas gracias por leer hasta acá!! Pronto estaremos subiendo más resultados!!
+------------------------------------------------------------------------
+
+
+
+Muchas gracias por interesarte en nuestra encuesta!! Pronto estaremos subiendo más resultados!!
 
 ------------------------------------------------------------------------
 
 
 ¿Querés replicar este código o el resto de las secciones que estamos analizando? Te invito a visitar nuestro respositorio. 
 
-Toda la data sobre la encuesta la podes encontrar aca: [Github](https://github.com/r4hr/kiwi2021.git)
+Toda la data sobre la encuesta la podes encontrar acá: [Github](https://github.com/r4hr/kiwi2021.git)
 
 Gracias al [Club de R Para RRHH](https://r4hr.club/) por dejarnos compartir esta información. 
 
