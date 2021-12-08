@@ -12,7 +12,7 @@ tags:
 - blog
 - Paquetes
 - RRHH
-title: Encuesta de Sueldos
+title: Freelance
 type: post
 output:
   html_document:

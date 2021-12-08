@@ -1,0 +1,896 @@
+---
+author: Yanel Paulette
+bg_image: images/feature-bg.jpg
+categories:
+- Aplicación
+date: "2021-12-08T11:07:10+06:00"
+description: 
+draft: false
+image: images/blog/freelance.jpg
+tags:
+- People Analytics
+- blog
+- Paquetes
+- RRHH
+title: Freelance
+type: post
+output:
+  html_document:
+    theme: sandstone
+    highlight: zenburn
+    code_folding: hide
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+
+
+<div id="introducción" class="section level4">
+<h4>Introducción</h4>
+<p>El el <a href="https://r4hr.club/">Club de R Para RRHH</a> nos gusta jugar con datos. Por eso hicimos una encuesta de sueldos, para contar datos actualizados sobre temas relevantes relacionados con nuestra profesión, Recursos Humanos. No vamos a mentir, el objetivo principal es contar con info con la cual podamos hacer análisis de datos, y desde ya compartir los resultados en forma libre.</p>
+<p>Actualmente nos encontramos en la etapa de procesamiento y limpieza. Sin embargo, hasta que la misma este disponible, comparto una serie de resultados, sobre una sección de la Encuesta de Sueldos Kiwi 2021, referida a las personas que trabajan como freelance. Espero te guste cómo va quedando!</p>
+<p>Estaremos publicando los resultados finales de la encuesta en el transcurso de 12/2021.</p>
+<hr />
+<p>Te presentamos a continuación un poco de lo que venimos haciendo:</p>
+<hr />
+</div>
+<div id="configuraciones-grales" class="section level3">
+<h3>Configuraciones Grales</h3>
+<p>Incorporamos la base disponible en el repositorio de <a href="https://github.com/r4hr/kiwi2021.git">Github</a></p>
+</div>
+<div id="respuestas-por-país" class="section level3">
+<h3>Respuestas por país</h3>
+<p>En el caso de las personas freelance, la mayoría de las respuestas obtenidas fueron de Argentina.
+Por eso reiteramos, que los resultados no son representativos de los países.</p>
+<div id="mhyvudqgsu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#mhyvudqgsu .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#mhyvudqgsu .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#mhyvudqgsu .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#mhyvudqgsu .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#mhyvudqgsu .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#mhyvudqgsu .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#mhyvudqgsu .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#mhyvudqgsu .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#mhyvudqgsu .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#mhyvudqgsu .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#mhyvudqgsu .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#mhyvudqgsu .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#mhyvudqgsu .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#mhyvudqgsu .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#mhyvudqgsu .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#mhyvudqgsu .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#mhyvudqgsu .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#mhyvudqgsu .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#mhyvudqgsu .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#mhyvudqgsu .gt_left {
+  text-align: left;
+}
+
+#mhyvudqgsu .gt_center {
+  text-align: center;
+}
+
+#mhyvudqgsu .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#mhyvudqgsu .gt_font_normal {
+  font-weight: normal;
+}
+
+#mhyvudqgsu .gt_font_bold {
+  font-weight: bold;
+}
+
+#mhyvudqgsu .gt_font_italic {
+  font-style: italic;
+}
+
+#mhyvudqgsu .gt_super {
+  font-size: 65%;
+}
+
+#mhyvudqgsu .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table">
+  <thead class="gt_header">
+    <tr>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal" style>Cantidad de respuestas por país</th>
+    </tr>
+    <tr>
+      <th colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style>Freelance</th>
+    </tr>
+  </thead>
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">País</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Cuenta</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Argentina</td>
+<td class="gt_row gt_right">40</td></tr>
+    <tr><td class="gt_row gt_left">Perú</td>
+<td class="gt_row gt_right">3</td></tr>
+    <tr><td class="gt_row gt_left">Bolivia</td>
+<td class="gt_row gt_right">2</td></tr>
+    <tr><td class="gt_row gt_left">Chile</td>
+<td class="gt_row gt_right">1</td></tr>
+    <tr><td class="gt_row gt_left">Colombia</td>
+<td class="gt_row gt_right">1</td></tr>
+    <tr><td class="gt_row gt_left">Estados Unidos</td>
+<td class="gt_row gt_right">1</td></tr>
+    <tr><td class="gt_row gt_left">México</td>
+<td class="gt_row gt_right">1</td></tr>
+    <tr><td class="gt_row gt_left">Uruguay</td>
+<td class="gt_row gt_right">1</td></tr>
+  </tbody>
+  <tfoot class="gt_sourcenotes">
+    <tr>
+      <td class="gt_sourcenote" colspan="2">Fuente: Encuesta KIWI de Sueldos de RRHH para Latam 2021</td>
+    </tr>
+  </tfoot>
+  
+</table>
+</div>
+</div>
+<div id="respuestas-por-género" class="section level3">
+<h3>Respuestas por Género</h3>
+<p>La participación según el género de las personas freelance, es la siguiente:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+<p>Podemos observar que la mayoría de las respuestas fueron de Mujeres cis, manteniendo la misma tendencia que las personas en relación de dependencia.</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Género
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Mujer cis
+</td>
+<td style="text-align:right;">
+34
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Hombre cis
+</td>
+<td style="text-align:right;">
+14
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="respuestas-por-educación" class="section level3">
+<h3>Respuestas por Educación</h3>
+<p>En esta sección queremos indagar si hay relación entre la formación y la exportacion de los servicios, y si impacta también el tipo de universidad, pública o privada, en dichas prestaciónes.
+Primero veamos como se distribuye la muestra entre profesionales provenientes de universidades públicas y privadas de los diferentes paises:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
+<p>Limitandonos al país con mayor cantidad de respuestas, Argentina, en los siguientes graficos podemos observar que la distribución por tipo de Universidad es muy pareja , quedando un valor minimo y poco representativo para quienen no fueron a la Universidad:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-7-1.png" width="672" /></p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-8-1.png" width="672" /></p>
+<p>Nos interesaba indagar cuál era el nivel de formación de los encuestados.</p>
+<p>En la siguiente tabla podemos ver que la mayoría tiene estudios Universitarios completos:</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Nivel de Formación
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Universitario completo
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Diplomado de posgrado completo
+</td>
+<td style="text-align:right;">
+9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Maestría completa
+</td>
+<td style="text-align:right;">
+8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Universitario en curso
+</td>
+<td style="text-align:right;">
+8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Diplomado de posgrado en curso
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Terciario completo
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Terciario abandonado
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+</tbody>
+</table>
+<p>Cuando analizamos educación, nos resultó interesante analizar la distribución por género y nivel educativo.</p>
+<p>En el siguiente gráfico podemos observar que las mujeres tienen mayor nivel de formación que los hombres:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-10-1.png" width="672" /></p>
+<p>Veamos los mismos resultados, en terminos relativos:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-11-1.png" width="672" /></p>
+<p>Respecto a las carreras, vemos que la tendencia de las mismas se corresponden con los resultados obtenidos en las personas en relación de dependencia:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-12-1.png" width="672" /></p>
+</div>
+<div id="respuestas-por-condición-fiscal" class="section level3">
+<h3>Respuestas por Condición fiscal</h3>
+<p>La condidición fiscal de los encuestados la podemos observar en la siguiente tabla:</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Registro Fiscal
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Monotributista
+</td>
+<td style="text-align:right;">
+36
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Contractor
+</td>
+<td style="text-align:right;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Otros
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Responsable inscripto
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+SA
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="respuestas-por-exportación-de-servicio" class="section level3">
+<h3>Respuestas por Exportación de Servicio</h3>
+<p>como vemos a continuación, la mayoría no exporta sus servicios:
+<img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-14-1.png" width="672" /></p>
+<p>Focalizandonos entre quienes exportan, podemos ver cuál es el servicio prestado:</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-15-1.png" width="672" /></p>
+<p>En relación a los medios de pago utilizados por quienes exportan, sus respuestas fueron las siguientes:</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Medios de Pago Exterior
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Payoneer
+</td>
+<td style="text-align:right;">
+12
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Transferencia
+</td>
+<td style="text-align:right;">
+12
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+PayPal
+</td>
+<td style="text-align:right;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Bitcoin
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Prex
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Western Union
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="respuestas-por-antigüedad" class="section level3">
+<h3>Respuestas por Antigüedad</h3>
+<p>Respecto a los años de experiencia como freelance, podemos observar que la mayoría tiene menos de dos años.</p>
+<p>Un interrogante que nos surge en si la inserción en esta modalidad fue una decisión de carrera voluntaria o impulsada por las consecuencias de la pandemia. Carecemos de elementos para responder esa pregunta, por eso nos limitamos a presentar las respuestas obtenidas:</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Años de Experiencia
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Menos de 2 años
+</td>
+<td style="text-align:right;">
+26
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Entre 2 y 5 años
+</td>
+<td style="text-align:right;">
+18
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Entre 5 y 10 años
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Más de 10 años
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="respuestas-por-búsquedas" class="section level3">
+<h3>Respuestas por Búsquedas</h3>
+<p>Nos interesa saber cuantos se dedican a realizar trabajos de selección de talentos.</p>
+<p>Podemos observar que un 66% de las personas encuestadas en esta categoria se dedican a la tarea de búsqueda.</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Serv. Búsqueda
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+n
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+freq
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Si
+</td>
+<td style="text-align:right;">
+33
+</td>
+<td style="text-align:right;">
+0.66
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+No
+</td>
+<td style="text-align:right;">
+17
+</td>
+<td style="text-align:right;">
+0.34
+</td>
+</tr>
+</tbody>
+</table>
+<p>Sabiendo el crecimiento y auge de las búsquedas en el sector de IT, veamos cuál es la participación de las mismas entre las personas que hacen recruiting.</p>
+<p>Como se observa en el siguiente gráfico, la mayoría de las búsquedas se concentran que en el sector IT.</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-19-1.png" width="672" /></p>
+</div>
+<div id="respuesta-por-garantía-de-trabajo" class="section level3">
+<h3>Respuesta por garantía de trabajo</h3>
+<p>Las garantías de reposición de vacantes se refieren a la protección que se brinda a cada cliente en el caso de que la persona contratada se marche de la empresa.</p>
+<p>Veamos entre los que prestan el servicio de recruiting, quienes ofrecen garantía de permanencia del candidato.</p>
+<p><img src="/english/blog/blog-post-14_files/figure-html/unnamed-chunk-20-1.png" width="672" /></p>
+<p>En la siguiente tabla podemos observar que los plazos de garantía suelen ir desde un mes hasta los tres meses. Pero un número importante, no ofrece garantia por el servicio contratado.</p>
+</div>
+<div id="respuestas-por-base-de-coeficiente" class="section level3">
+<h3>Respuestas por Base de Coeficiente</h3>
+<p>Otro punto para destacar es el precio del servicio de quienes hacen recruiting.</p>
+<p>Podemos ver que la gran mayoría cobra por dicho servicio, un porcentaje de remuneración mensual del ingresante, dejando para muy pocos casos el ingreso anual del mismo.</p>
+<p>Una pregunta abierta que nos queda, es cuáles son las posiciones mejores pagas para los recruiters. Sin embargo, dicho análisis escapa de los objetivos de la presente encuesta.</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Remuneración del Ingresante
+</th>
+<th style="text-align:right;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Mensual
+</td>
+<td style="text-align:right;">
+30
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Anual
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+</tbody>
+</table>
+<p>La mayoría cobra un porcentaje que va del 20% al 30% de las remuneraciones mensuales de los ingresantes, como podemos ver en el siguiente cuadro:</p>
+<table class="table table-striped table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Porcentaje
+</th>
+<th style="text-align:left;font-weight: bold;color: white !important;background-color: #344D7E !important;">
+Cuenta
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+20%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">5</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+30%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">4</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+40%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">2</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+50%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">2</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+70%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">1</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+80%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">1</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+100%
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="% Sobre la Remuneración Mensual">2</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Muchas gracias por leer hasta acá!! Pronto estaremos subiendo más resultados!!</p>
+<hr />
+<p>¿Querés replicar este código o el resto de las secciones que estamos analizando? Te invito a visitar nuestro respositorio.</p>
+<p>Toda la data sobre la encuesta la podes encontrar aca: <a href="https://github.com/r4hr/kiwi2021.git">Github</a></p>
+<p>Gracias al <a href="https://r4hr.club/">Club de R Para RRHH</a> por dejarnos compartir esta información.</p>
+<hr />
+<p><a href="https://yanelpaulette.netlify.app/">Yanel</a></p>
+</div>
