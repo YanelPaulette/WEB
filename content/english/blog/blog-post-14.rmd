@@ -3,14 +3,14 @@ author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
 - Aplicación
-date: "2021-09-01T11:07:10+06:00"
+date: "2021-12-08T11:07:10+06:00"
 description: 
 draft: false
 image: images/blog/freelance.jpg
 tags:
 - People Analytics
 - blog
-- Aplicaciones
+- Paquetes
 - RRHH
 title: Encuesta de Sueldos
 type: post
