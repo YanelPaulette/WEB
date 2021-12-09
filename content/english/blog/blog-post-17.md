@@ -22,11 +22,11 @@ Qué vimos❓ "Desigualdad de Género en la Inserción Laboral"
 
 Es una temática que me encanta ya que nos invita a reflexionar sobre muchas de las prácticas que tenemos vigentes, algunas muy arraigadas en las empresas.
 
-El público se encontro super interesado, ya que fuimos viendo entre marco teórico, definiciones y estadisticas, aplicaciones prácticas de la temática en la vida cotidiana y su necesario abordaje para quienes tengan que armar capacitaciones en el futuro.
+El público se encontro super interesado, ya que fuimos viendo entre marco teórico, definiciones y estadísticas, aplicaciones prácticas de la temática en la vida cotidiana y su necesario abordaje para quienes tengan que armar capacitaciones en el futuro.
 
-Una de las actividades que hicimos, fue la rueda de la fortuna. ¿El objetivo? Pensar ejemplos de aplicación práctica de la teoría en cada cada uno de los talleres que forma parte del curso, ya que consideramos que abordaje de las formaciones tiene que tener una perspectiva de género.
+Una de las actividades que hicimos  fue la rueda de la fortuna. ¿El objetivo? Pensar ejemplos de aplicación práctica de la teoría en cada cada uno de los talleres que forma parte del curso, ya que consideramos que el  abordaje de los talleres que brindemos desde el voluntariado  tiene que tener una perspectiva de género.
 
-Me gusta usar herramientas lúdicas en las capacitaciones? Siii, me encanta!! Te muestro cómo quedo:
+¿Me gusta usar herramientas lúdicas en las capacitaciones? Siii, me encanta!! Te muestro cómo quedo:
 
 ![](/images/blog/captura.jpg)
 
