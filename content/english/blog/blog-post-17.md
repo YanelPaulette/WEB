@@ -6,7 +6,7 @@ categories:
 date: "2021-11-27T11:07:10+06:00"
 description: 
 draft: false
-image: images/blog/meetup.jpg 
+image: images/blog/genero.png
 tags:
 - People Analytics
 - blog
@@ -31,7 +31,7 @@ Me gusta usar herramientas lúdicas en las capacitaciones? Siii, me encanta!! Te
     <div>
     <p style = 'text-align:center;'>
     <iframe width="600" height = "420"
-    src="https://www.youtube.com/embed/tgbNymZ7vqY"
+    src="https://drive.google.com/file/d/1EoPs7i8m_0Vgyibg4F4MQnIqWggs3EV6/view?usp=sharing"
     </iframe>
     </div>
     </p>
@@ -39,6 +39,8 @@ Me gusta usar herramientas lúdicas en las capacitaciones? Siii, me encanta!! Te
 Una vez más termine super feliz y agradecida de formar parte de un equipo humano tan lindo.
 
 ![](images/WhatsApp%20Image%202021-12-08%20at%2021.48.07.jpeg)
+
+  
 
 ------------------------------------------------------------------------
 
