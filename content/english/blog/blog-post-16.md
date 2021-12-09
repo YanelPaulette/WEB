@@ -30,7 +30,7 @@ Este es el primer meetup de [RStudio PBC](https://www.linkedin.com/company/rstud
 
 No se lo pierdan que va a estar muy bueno.👏👏
 
-[Entra acá para registrarte para participar](https://lnkd.in/ds-x3zUS)
+[Entra acá para registrarte](https://lnkd.in/ds-x3zUS)
 
 
 No te lo pierdas!!
