@@ -36,11 +36,6 @@ No se lo pierdan que va a estar muy bueno.👏👏
 No te lo pierdas!!
 
 
----------- 
-
-
-Gracias al  por dejarnos compartir esta información. 
-
 
 ---------- 
 
