@@ -29,7 +29,7 @@ La jornada termino con un saludo virtual 👋
 
 ***Te gustaria sumarte? Te cuento un poco más:***
 
-> *Mucha gente pequeña, en lugares pequenos, haciendo cosas pequeñas, puede cambiar el mundo*
+> *Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo*
 
 **¿Qué objetivo tiene el Voluntariado?**
 
