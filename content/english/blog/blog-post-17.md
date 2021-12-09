@@ -38,7 +38,7 @@ Una vez más termine super feliz y agradecida de formar parte de un equipo human
 
 Te gustaria sumarte al Voluntariado? Te cuento un poco más:
 
-Mucha gente pequeña, en lugares pequenos, haciendo cosas pequeñas, puede cambiar el mundo
+\> \*Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo\*
 
 ¿Qué objetivo tiene el Voluntariado?
 
