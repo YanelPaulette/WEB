@@ -2,7 +2,7 @@
 author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
-- Evento
+- Eventos
 date: "2021-12-01T11:07:10+06:00"
 description: 
 draft: false
