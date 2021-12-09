@@ -3,7 +3,7 @@ author: Yanel Paulette
 bg_image: images/feature-bg.jpg
 categories:
 - Aplicación
-date: "2021-07-19T11:07:10+06:00"
+date: "2021-07-24T11:07:10+06:00"
 description: 
 draft: false
 image: images/blog/engagement.jpg
