@@ -28,17 +28,11 @@ Una de las actividades que hicimos, fue la rueda de la fortuna. ¿El objetivo? P
 
 Me gusta usar herramientas lúdicas en las capacitaciones? Siii, me encanta!! Te muestro cómo quedo:
 
-    <div>
-    <p style = 'text-align:center;'>
-    <iframe width="600" height = "420"
-    src="https://wordwall.net/es/resource/25683351"
-    </iframe>
-    </div>
-    </p>
+!\[\](/images/blog/captura.jpg)  
 
 Una vez más termine super feliz y agradecida de formar parte de un equipo humano tan lindo.
 
-![](images/WhatsApp%20Image%202021-12-08%20at%2021.48.07-02.jpeg)  
+!\[\](/images/blog/WhatsApp Image 2021-12-08 at 21.48.07.jpeg)  
 
 ------------------------------------------------------------------------
 
