@@ -17,7 +17,7 @@ type: post
 output:
   html_document:
     theme: sandstone
-    highlight: zenburn
+    highlight: blue
     code_folding: hide
 ---
 
@@ -115,7 +115,6 @@ eje_y_n <- scale_y_continuous(labels = comma_format(big.mark = ".", decimal.mark
 ```
 
 
-Incorporamos la base disponible en el repositorio de [Github](https://github.com/r4hr/kiwi2021.git)
 
 ```{r echo=FALSE}
 
@@ -128,6 +127,8 @@ freelo21 <- read.csv("https://raw.githubusercontent.com/r4hr/kiwi2021/main/data/
                    encoding = "UTF-8")
 
 ```
+
+Incorporamos la base disponible en el repositorio de [Github](https://github.com/r4hr/kiwi2021.git)
 
 ### Respuestas  por país
 
@@ -835,7 +836,7 @@ Muchas gracias por interesarte en nuestra encuesta!! Pronto estaremos subiendo m
 ------------------------------------------------------------------------
 
 
-¿Querés replicar este código o el resto de las secciones que estamos analizando? Te invito a visitar nuestro respositorio. 
+¿Querés replicar este código o el resto de las secciones que estamos analizando? Te invito a visitar nuestro repositorio. 
 
 Toda la data sobre la encuesta la podes encontrar acá: [Github](https://github.com/r4hr/kiwi2021.git)
 
