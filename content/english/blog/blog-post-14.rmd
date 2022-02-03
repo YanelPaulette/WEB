@@ -43,7 +43,7 @@ Te presentamos a continuación  un poco de lo que venimos haciendo:
 
 ```{r setup, include=FALSE}
 
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
