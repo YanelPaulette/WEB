@@ -22,7 +22,7 @@ Por qué proyectos independientes❓ Por varias razones. Tengo ideas que escuch�
 
 Por qué con colegas❓ Porque son quienes tienen el conocimiento especializado de sus áreas, conozco sus trabajos y en definitiva, es a  quienes  todos los días les pasa por la piel   alguna idea que yo, quizás, solamente  ví en un tutorial y me interesó indagar.  Esa sensibilidad me gustaría que este presente en los proyectos. 
 
-La idea es  que puedan plantearme una problematica frecuente con la que se encuentren en el día a día y yo trate de ver de qué forma se podría implementar un proyecto de People Analytics que mejore la situación planteada. 
+La idea es  que puedan plantearme una problemática frecuente con la que se encuentren en el día a día y yo trate de ver de qué forma se podría implementar un proyecto de People Analytics que mejore la situación planteada. 
 ¿Te parece que puede funcionar? 
 
 
