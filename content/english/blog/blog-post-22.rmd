@@ -12,7 +12,7 @@ tags:
 - blog
 - Paquetes
 - RRHH
-title: Proyectos 
+title: Función Ipak 
 type: post
 output:
   html_document:
@@ -88,5 +88,5 @@ Listo!  paquetes instalados!! Ahora a trabajar! 📊
 
 --------
 
-Yanel Paulette
+[Yanel](https://yanelpaulette.netlify.app/)
 
