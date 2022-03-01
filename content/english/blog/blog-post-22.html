@@ -24,23 +24,32 @@ output:
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
-<p>Instalación de Paquetes</p>
+<div id="instalación-de-paquetes" class="section level1">
+<h1>Instalación de Paquetes</h1>
 <p>Hay varias formas de instalar paquetes. Hoy te cuento una con la que podes instalar y llamar varios paquetes juntos!👌</p>
-<p>Si te resulta más fácil, podes copiar y pegar los pasos en todos tus trabajos.</p>
-<p>Te muestro el proceso de 3 pasos 🚀</p>
-<p>1° Paso</p>
-<p>Para realizar la instalación y el llamado de los paquetes debemos correr (Run) la función ipak()</p>
+<p>No solemos usar siempre los mismos paquetes en todos los trabajos, por eso no es recomendable copiar y pegar siempre lo mismo, ya que podes estar invocando alguna que no vayas a utilizar y por ende estas haciendo que el código sea más pesado y no es necesario.</p>
+<p>Si te sirve de consejo, dejate un script con las librerias que frecuentemente utilizas, un breve detalle de lo que hace cada una y dependiendo el análisis a realizar las utilizas.</p>
+<p>Con los pasos que te muestro a continuación, solo tenes que acordarte de escribir los nombres de los paquetes. Espero te resulte útil.🤗</p>
+<hr />
+<p><em>Te muestro el proceso de 3 pasos 🚀</em></p>
+<div id="paso" class="section level2">
+<h2>1° Paso</h2>
+<p>Para realizar la instalación y el llamado de los paquetes debemos correr (Run) la función ipak()<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
 <pre class="r"><code>ipak &lt;- function(pkg){
   new.pkg &lt;- pkg[!(pkg %in% installed.packages()[, &quot;Package&quot;])]
   if (length(new.pkg)) 
     install.packages(new.pkg, dependencies = TRUE)
   sapply(pkg, require, character.only = TRUE)
 }</code></pre>
-<p>2° Paso</p>
+</div>
+<div id="paso-1" class="section level2">
+<h2>2° Paso</h2>
 <p>Creamos un objeto llamado packages(), el cual contiene los diversos paquetes a utilizar.</p>
 <p>Los paquetes los escribimos entre comillas y separados por comas:</p>
 <pre class="r"><code>packages &lt;- c(&quot;tidyverse&quot;,&quot;cluster&quot;,&quot;tidyr&quot;)</code></pre>
-<p>3° Paso</p>
+</div>
+<div id="paso-2" class="section level2">
+<h2>3° Paso</h2>
 <p>Por último debemos correr (Run) la linea ipak(), con esto ya se realizará el proceso de instalación y de llamado de los paquetes detallados en el paso 2:</p>
 <pre class="r"><code>ipak(packages)</code></pre>
 <pre><code>## tidyverse   cluster     tidyr 
@@ -48,3 +57,11 @@ output:
 <p>Listo! paquetes instalados!! Ahora a trabajar! 📊</p>
 <hr />
 <p><a href="https://yanelpaulette.netlify.app/">Yanel</a></p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Fuente: <a href="https://gist.github.com/stevenworthington/3178163" class="uri">https://gist.github.com/stevenworthington/3178163</a><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
