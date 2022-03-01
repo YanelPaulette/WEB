@@ -1,0 +1,50 @@
+---
+author: Yanel Paulette
+bg_image: images/feature-bg.jpg
+categories:
+- Aplicación
+date: "2022-03-01T11:13:30+06:00"
+description: 
+draft: false
+image: images/blog/mamushka.jpg 
+tags:
+- People Analytics
+- blog
+- Paquetes
+- RRHH
+title: Proyectos 
+type: post
+output:
+  html_document:
+    theme: sandstone
+    highlight: blue
+    code_folding: hide
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>Instalación de Paquetes</p>
+<p>Hay varias formas de instalar paquetes. Hoy te cuento una con la que podes instalar y llamar varios paquetes juntos!👌</p>
+<p>Si te resulta más fácil, podes copiar y pegar los pasos en todos tus trabajos.</p>
+<p>Te muestro el proceso de 3 pasos 🚀</p>
+<p>1° Paso</p>
+<p>Para realizar la instalación y el llamado de los paquetes debemos correr (Run) la función ipak()</p>
+<pre class="r"><code>ipak &lt;- function(pkg){
+  new.pkg &lt;- pkg[!(pkg %in% installed.packages()[, &quot;Package&quot;])]
+  if (length(new.pkg)) 
+    install.packages(new.pkg, dependencies = TRUE)
+  sapply(pkg, require, character.only = TRUE)
+}</code></pre>
+<p>2° Paso</p>
+<p>Creamos un objeto llamado packages(), el cual contiene los diversos paquetes a utilizar.</p>
+<p>Los paquetes los escribimos entre comillas y separados por comas:</p>
+<pre class="r"><code>packages &lt;- c(&quot;tidyverse&quot;,&quot;cluster&quot;,&quot;tidyr&quot;)</code></pre>
+<p>3° Paso</p>
+<p>Por último debemos correr (Run) la linea ipak(), con esto ya se realizará el proceso de instalación y de llamado de los paquetes detallados en el paso 2:</p>
+<pre class="r"><code>ipak(packages)</code></pre>
+<pre><code>## tidyverse   cluster     tidyr 
+##      TRUE      TRUE      TRUE</code></pre>
+<p>Listo! paquetes instalados!! Ahora a trabajar! 📊</p>
+<hr />
+<p>Yanel Paulette</p>

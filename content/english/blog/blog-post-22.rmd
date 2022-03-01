@@ -1,0 +1,92 @@
+---
+author: Yanel Paulette
+bg_image: images/feature-bg.jpg
+categories:
+- Aplicación
+date: "2022-03-01T11:13:30+06:00"
+description: 
+draft: false
+image: images/blog/mamushka.jpg 
+tags:
+- People Analytics
+- blog
+- Paquetes
+- RRHH
+title: Proyectos 
+type: post
+output:
+  html_document:
+    theme: sandstone
+    highlight: blue
+    code_folding: hide
+---
+
+Instalación de Paquetes
+
+Hay varias formas de instalar paquetes. Hoy te cuento una con la que  podes instalar y llamar varios paquetes juntos!👌
+
+Si  te resulta más fácil,  podes copiar y pegar  los pasos en todos tus trabajos. 
+
+Te muestro el proceso de 3 pasos 🚀 
+
+
+```{r setup, include=FALSE} 
+
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+
+
+1° Paso
+
+Para realizar la instalación y el llamado de los paquetes debemos correr (Run) la función ipak()
+
+```{r}
+ipak <- function(pkg){
+  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+  if (length(new.pkg)) 
+    install.packages(new.pkg, dependencies = TRUE)
+  sapply(pkg, require, character.only = TRUE)
+}
+
+```
+
+
+
+
+2° Paso
+
+Creamos un objeto llamado packages(),  el cual contiene los diversos paquetes a utilizar. 
+
+Los paquetes los escribimos entre comillas y separados por comas: 
+
+```{r}
+packages <- c("tidyverse","cluster","tidyr")
+
+
+```
+
+
+
+
+3° Paso
+
+Por último debemos correr (Run) la linea ipak(), con esto ya se realizará el proceso de instalación y de llamado de los paquetes detallados en el paso 2:
+
+
+```{r}
+ipak(packages)
+
+
+```
+
+
+
+
+
+Listo!  paquetes instalados!! Ahora a trabajar! 📊
+
+--------
+
+Yanel Paulette
+
